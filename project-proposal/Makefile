@@ -14,4 +14,4 @@ all: $(Pdfs)
 
 
 clean:
-				rm -rf *.pdf *.log *.aux *.bbl *.blg *.dvi *.fdb_latexmk
+				rm -rf *.log *.aux *.bbl *.blg *.dvi *.fdb_latexmk
